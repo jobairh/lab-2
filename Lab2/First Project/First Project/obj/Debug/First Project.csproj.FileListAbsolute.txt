@@ -1,0 +1,7 @@
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\bin\Debug\First Project.exe.config
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\bin\Debug\First Project.exe
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\bin\Debug\First Project.pdb
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\obj\Debug\First Project.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\obj\Debug\First Project.exe
+H:\OOP2 Fall 20-21\Lab2\First Project\First Project\obj\Debug\First Project.pdb
